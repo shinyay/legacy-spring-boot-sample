@@ -165,6 +165,8 @@ cd backend
 ./mvnw test
 ```
 
+For the Java 8 environment, selected regression tests and recorded baseline results, see [Issue #8 — backend test baseline](docs/TESTES-BASELINE.md).
+
 Frontend:
 
 ```bash
